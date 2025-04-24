@@ -11,7 +11,7 @@ public class ModItems {
 
     public static final DeferredItem<Item> JEREMEJEVITE = ITEMS.register("jeremejevite",
             () -> new Item(new Item.Properties()));
-    // TODO: CHANGE THE jeremejevite TEXTURE TO POINT TOP RIGHT!!!
+    // TODO: CHANGE THE jeremejevite TEXTURE TO POINT TOP RIGHT!!!!
     public static void register (IEventBus eventBus) {
         ITEMS.register(eventBus);
     }
