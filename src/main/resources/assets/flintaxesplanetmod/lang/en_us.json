@@ -1,3 +1,22 @@
 {
-  "item.flintaxesplanetmod.jeremejevite": "jeremejevite"
+  "creativetab.flintaxesplanetmod.flintaxes_planet_tab": "Mortalis-64(AB)c",
+  "tooltip.flintaxesplanetmod.press_shift": "§8§oPress §lSHIFT§r§8§o for more information...§r",
+
+
+  "item.flintaxesplanetmod.jeremejevite": "jeremejevite",
+
+
+  "block.flintaxesplanetmod.aurelic_sand": "Aurelic Sand",
+  "tooltip.flintaxesplanetmod.aurelic_sand": "§7Once the most fertile soil, now sand and ruins is all that remains from the days of when many great civilizations thrived on this strange planet.§r",
+
+  "block.flintaxesplanetmod.devitalis_stone": "Devitalis Stone",
+  "block.flintaxesplanetmod.devitalis_bricks": "Devitalis Bricks",
+  "block.flintaxesplanetmod.devitalis_bricks_cracked": "Cracked Devitalis Bricks",
+  "block.flintaxesplanetmod.devitalis_bricks_stairs": "Devitalis Brick Stairs",
+  "block.flintaxesplanetmod.devitalis_bricks_slab": "Devitalis Brick Slab",
+  "block.flintaxesplanetmod.devitalis_bricks_wall": "Devitalis Brick Wall",
+
+  "block.flintaxesplanetmod.devitalis_bricks_carved": "Chiseled Devitalis Bricks",
+  "tooltip.flintaxesplanetmod.devitalis_bricks_carved": "§7Who knows what otherworldly magic could be performed on this piece of stone?§r"
+
 }
