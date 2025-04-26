@@ -25,9 +25,11 @@ public class ModBlockLootTableProvider extends BlockLootSubProvider {
         dropSelf(ModBlocks.DEVITALIS_BRICKS_CARVED.get());
         dropSelf(ModBlocks.DEVITALIS_BRICKS_CRACKED.get());
         dropSelf(ModBlocks.DEVITALIS_STONE.get());
-        dropSelf(ModBlocks.DEVITALIS_BRICKS_SLAB.get());
         dropSelf(ModBlocks.DEVITALIS_BRICKS_STAIRS.get());
         dropSelf(ModBlocks.DEVITALIS_BRICKS_WALL.get());
+
+        add(ModBlocks.DEVITALIS_BRICKS_SLAB.get(),
+                block -> createSlabItemTable(ModBlocks.DEVITALIS_BRICKS_SLAB.get()));
     }
 
     @Override

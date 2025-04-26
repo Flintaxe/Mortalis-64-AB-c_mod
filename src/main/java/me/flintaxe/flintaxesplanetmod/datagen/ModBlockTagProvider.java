@@ -27,6 +27,9 @@ public class ModBlockTagProvider extends BlockTagsProvider {
                 .add(ModBlocks.DEVITALIS_BRICKS_STAIRS.get())
                 .add(ModBlocks.DEVITALIS_BRICKS_SLAB.get());
 
+        tag(BlockTags.WALLS)
+                .add(ModBlocks.DEVITALIS_BRICKS_WALL.get());
+
         tag(BlockTags.DEAD_BUSH_MAY_PLACE_ON)
                 .add(ModBlocks.AURELIC_SAND.get());
     }
