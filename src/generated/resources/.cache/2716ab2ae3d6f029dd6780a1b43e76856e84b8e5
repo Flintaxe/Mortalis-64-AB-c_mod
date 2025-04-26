@@ -1,0 +1,4 @@
+// 1.21.1	2025-04-26T15:00:28.9111593	Tags for minecraft:block mod id flintaxesplanetmod
+f54c29d13bab459cadfd87f5fcc1249de081f1b2 data/minecraft/tags/block/dead_bush_may_place_on.json
+26256f34a069e0d3ad3db5c26142a29ee309bf21 data/minecraft/tags/block/mineable/pickaxe.json
+c0abfe159b233fb1d84a9a9552a325cd909fe70f data/minecraft/tags/block/walls.json

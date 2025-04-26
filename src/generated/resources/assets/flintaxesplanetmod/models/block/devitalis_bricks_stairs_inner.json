@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/inner_stairs",
+  "textures": {
+    "bottom": "flintaxesplanetmod:block/devitalis_bricks",
+    "side": "flintaxesplanetmod:block/devitalis_bricks",
+    "top": "flintaxesplanetmod:block/devitalis_bricks"
+  }
+}

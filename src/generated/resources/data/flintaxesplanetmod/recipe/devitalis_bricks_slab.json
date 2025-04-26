@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "group": "devitalis_bricks",
+  "key": {
+    "#": {
+      "item": "flintaxesplanetmod:devitalis_bricks"
+    }
+  },
+  "pattern": [
+    "###"
+  ],
+  "result": {
+    "count": 6,
+    "id": "flintaxesplanetmod:devitalis_bricks_slab"
+  }
+}

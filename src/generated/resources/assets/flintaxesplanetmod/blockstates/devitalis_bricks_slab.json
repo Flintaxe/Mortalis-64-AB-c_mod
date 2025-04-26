@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "flintaxesplanetmod:block/devitalis_bricks_slab"
+    },
+    "type=double": {
+      "model": "flintaxesplanetmod:block/devitalis_bricks"
+    },
+    "type=top": {
+      "model": "flintaxesplanetmod:block/devitalis_bricks_slab_top"
+    }
+  }
+}
